@@ -3,11 +3,11 @@
 ## How to compile the program.
 1. Go to your terminal enviroment.
 2. Make sure you are in the directory where the file is located.
-3. Enter make -f Makefile.
-4. After you have complied using makefile, enter program name ./ctail and arguments
+3. Enter ```make -f Makefile```.
+4. After you have complied using makefile, enter program name ```./ctail``` and arguments
  if you want to run the file.
 5. The program should complie and work properly
-6. To clean the executable files type make clean.
+6. To clean the executable files type ```make clean```.
 
 
 ## Functionality offered by program.
