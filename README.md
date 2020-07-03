@@ -6,10 +6,13 @@
 Instructions are in the instructionmanual.txt
 ```
 
-![Application](img/Requirement1.PNG)
+![Application](img/)
 
 ## Assignment 2
 ```
 Instructions are in the instructionsmanual.txt
 ```
-![Application](img/Requirement1.PNG)
+### Task 1
+![Application](img/Task1.gif)
+### Task 2
+![Application](img/Task2.gif)
