@@ -6,7 +6,7 @@
 Instructions are in the instructionmanual.txt
 ```
 
-![Application](img/)
+![Application](img/Assignment-1.png)
 
 ## Assignment 2
 ```
