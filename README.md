@@ -3,14 +3,14 @@
 
 ## Assignment 1
 ```
-Instructions are in the instructionmanual.txt
+Instructions: /Assignment1/Instruction Manual
 ```
 
 ![Application](img/Assignment-1.png)
 
 ## Assignment 2
 ```
-Instructions are in the instructionsmanual.txt
+Instructions: /Assignment/Instruction Manual
 ```
 ### Task 1
 ![Application](img/Task1.gif)
