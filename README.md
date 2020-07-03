@@ -1,5 +1,6 @@
 # FIT2100 Assignment 1 & 2
-
+- Introduction to C.
+- A repo of work done.
 
 ## Assignment 1
 ```
