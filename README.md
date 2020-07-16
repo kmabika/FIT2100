@@ -1,4 +1,5 @@
 # FIT2100 Assignment 1 & 2
+- FIT2100 Semester 2 2019
 - Introduction to C.
 - A repo of work done.
 
